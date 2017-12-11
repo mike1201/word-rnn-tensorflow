@@ -1,3 +1,6 @@
+- I use hunkim`s code (https://github.com/hunkim/word-rnn-tensorflow)
+
+
 - Using Shakespear Data, Train model.
 
 
