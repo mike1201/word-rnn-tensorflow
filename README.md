@@ -1,5 +1,5 @@
-1. Using Shakespear Data
-2. Summarize the structure of whole code in "RNN-LSTM_Structure.hwp"
+Using Shakespear Data
+Summarize the structure of whole code in "RNN-LSTM_Structure.hwp"
 
 
 
